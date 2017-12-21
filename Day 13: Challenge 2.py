@@ -39,7 +39,7 @@ while j < n+1:
         else:
             pass
 
-
+ 
 print delay
 
 
